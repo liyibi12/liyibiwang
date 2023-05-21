@@ -1,0 +1,12 @@
+
+关于密码的说明：
+
+默认用户密码为8个1
+默认管理员密码为8个0
+
+为了保护你的加密狗数据安全性，建议及时修改默认密码。
+
+
+如果NET程序(C#，VB.Net)在加密过程中提示需要转换，先用NET Reactor v4.7.0.0版本进行加密，再用我们的 软件加密工具 进行加密
+
+NET Reactor v4.7.0.0下载地址 http://www.ivikey.com/file/download/NET_Reactor_4.7.rar
